@@ -10,7 +10,7 @@ const Home = () => {
         </h1>
         <p className="my-4 text-md text-center md:text-left">
           Je suis un déveleppeur Full-Stack <br /> avec 5 ans d'expériences utilisant React et
-          Node.js. <br />
+          Node.js, Laravel <br />
           Contactez-moi si vous avez besoin de mes services.
         </p>
         <a href="#" className="btn btn-accent md:w-fit">
