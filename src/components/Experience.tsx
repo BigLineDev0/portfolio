@@ -9,6 +9,9 @@ import imgTYPE from "../assets/techno/typescript.svg";
 import imgNODE from "../assets/techno/node-js.png";
 import imgPRISMA from "../assets/techno/prisma.webp";
 import imgNEXT from "../assets/techno/next-js.webp";
+import imgLARAVEL from "../assets/techno/laravel.png";
+import imgPHP from "../assets/techno/php.png";
+import imgMySQL from "../assets/techno/mysql.png";
 
 import google from "../assets/companies/google.png";
 import amazon from "../assets/companies/amazon.png";
@@ -23,7 +26,10 @@ const skills = [
     {id: 6, name: "Tailwind CSS", image: imgTAILWIND},
     {id: 7, name: "TypeScript", image: imgTYPE},
     {id: 8, name: "Next.js", image: imgNEXT},
-    {id: 9, name: "Prisma", image: imgPRISMA},
+    {id: 9, name: "PHP", image: imgPHP},
+    {id: 10, name: "Laravel", image: imgLARAVEL},
+    {id: 11, name: "MySQL", image: imgMySQL},
+    {id: 12, name: "Prisma", image: imgPRISMA},
 ];
 
 
